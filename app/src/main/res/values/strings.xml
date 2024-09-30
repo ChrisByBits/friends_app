@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">friends_app</string>
+    <string name="people_button">People</string>
+    <string name="favorites_button">Favorites</string>
+</resources>
